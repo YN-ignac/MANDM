@@ -1,0 +1,5 @@
+2  0.7111999999999926 3.6949999999999537 0.10887202623851043 0.6 ! ndim, y0
+20.0 10.0 1.0 -2.0  	    ! gamma, B, lambda, thetaC
+10 1e-8                     ! maxnewt, eps
+100                         ! maxeul
+0.05 1e-6 0.15              ! step, minstep, maxstep
